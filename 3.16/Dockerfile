@@ -10,3 +10,4 @@ RUN apk add --no-cache \
     git \
     bash \
     nodejs \
+    git-lfs \
