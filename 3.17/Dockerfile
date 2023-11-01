@@ -9,4 +9,4 @@ RUN apk add --no-cache \
     docker \
     git \
     bash \
-    node \
+    nodejs \
